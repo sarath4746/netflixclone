@@ -26,18 +26,11 @@
             ],
             "styles": [
               "src/styles.css",
-              "node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "src/app/header/header.component.css",
-              "src/app/footer/footer.component.css",
-              "src/app/profile/profile.component.css",
-              "src/app/tv/tv.component.css",
-              "src/app/watch/watch.component.css",
-              "src/app/download/download.component.css",
-              "src/app/faq/faq.component.css",
-              "src/app/child/child.component.css"
+              "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": [
               "node_modules/bootstrap/dist/js/bootstrap.min.js"
+
             ]
           },
           "configurations": {
