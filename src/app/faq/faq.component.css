@@ -1,0 +1,89 @@
+
+
+.f {
+    background-color: rgb(44, 44, 44);
+    padding-top: 8px;
+}
+.hh {
+    font-size: 3rem;
+}
+.faq{
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-size: 25px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 900px;
+}
+.bbt{
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px;
+    font-size: 23px;
+    width: 200px;
+}
+input{
+    background-color: rgb(34, 33, 33);
+    opacity: 0.6;
+    color: white;
+    height: 43px;
+    border: 1px solid silver;
+    border-radius:4px ;
+    margin-right: 6px;
+    padding: 26px;
+}
+::placeholder {
+    color: white;
+    opacity: 6;
+    font-size: 17px;
+}
+.btn{
+    text-align: start;
+    color: white;
+}
+
+
+.bbt{
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+.bbt:hover {
+    transition: 0.9s;
+    opacity:0.8;
+}
+.b-1{
+    width: 1200px;
+    height: 85px;
+    text-align: start;
+    color: white;
+    border: none;
+    padding-left: 30px;
+    background-color: rgb(44, 44, 44);
+}
+.b-1:hover {
+    transition: 0.8s;
+    background-color: rgb(105, 102, 102);
+}
+.list{
+    list-style: none;
+}
+
+p{
+    font-size: 20px;
+}
+
+
+input{
+    background-color: black;
+    color: white;
+}
+
+.bbt{
+    background-color: red;
+    color: white;
+}

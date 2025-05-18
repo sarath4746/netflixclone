@@ -1,0 +1,32 @@
+
+.t {
+    background-color: rgb(44, 44, 44);
+    padding-top: 8px;
+}
+.tv{
+    display: flex;
+    height: 600px;
+    width: auto;
+    background-color:black;
+    color: white;
+    text-align: start;
+}
+
+.tv-1{
+    text-align: start;
+    margin: 20px;
+    padding: 60px;
+    margin-top: 10%;
+}
+
+.tv-2{
+    padding-right: 50px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+p{
+    font-size: 25px;
+}

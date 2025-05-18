@@ -1,0 +1,28 @@
+
+.w {
+    background-color: rgb(44, 44, 44);
+    padding-top: 8px;
+}
+.watch{
+    display: flex;
+    height: 600px;
+    width: auto;
+    background-color:black;
+    color: white;
+}
+
+
+.watch-1{
+    text-align: start;
+    margin: 20px;
+    padding: 60px;
+    margin-top: 10%;
+}
+
+h1{
+    font-size: 50px;
+}
+
+p{
+    font-size: 25px;
+}
